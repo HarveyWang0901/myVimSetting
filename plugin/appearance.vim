@@ -6,7 +6,7 @@ set ruler
 set scrolloff=3
 set wrap
 set linebreak
-set showmode
+set noshowmode
 set cursorline
 set showcmd
 set nolist
